@@ -1,0 +1,27 @@
+{
+  "name": "ember-cli-whitelabel",
+  "version": "0.1.0",
+  "description": "Static app customization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Gil Pedersen <gpdev@gpost.dk>",
+  "license": "BSD",
+  "ember-addon": {},
+  "dependencies": {
+    "html-entities": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediathand/ember-cli-whitelabel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mediathand/ember-cli-whitelabel/issues"
+  },
+  "homepage": "https://github.com/mediathand/ember-cli-whitelabel"
+}
