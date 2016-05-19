@@ -20,7 +20,7 @@ EmberCLIWhitelabel.prototype.contentFor = function contentFor(type/*, config*/) 
       head.push('    <title>' + entities.encode(this.options.title) + '</title>');
     }
     if (this.options.description) {
-      head.push('    <meta name="description" content="' + entities.encode(this.options.description) + '"')
+      head.push('    <meta name="description" content="' + entities.encode(this.options.description) + '">')
     }
 
     return head;
