@@ -1,6 +1,6 @@
 {
   "name": "@mediathand/ember-cli-whitelabel",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Static app customization",
   "main": "index.js",
   "scripts": {
