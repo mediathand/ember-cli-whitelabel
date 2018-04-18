@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-whitelabel",
+  "name": "@mediathand/ember-cli-whitelabel",
   "version": "0.1.1",
   "description": "Static app customization",
   "main": "index.js",
@@ -9,8 +9,8 @@
   "keywords": [
     "ember-addon"
   ],
-  "author": "Gil Pedersen <gpdev@gpost.dk>",
-  "license": "BSD",
+  "author": "Gil Pedersen <gil@mediathand.com>",
+  "license": "UNLICENSED",
   "ember-addon": {},
   "dependencies": {
     "html-entities": "^1.1.1"
